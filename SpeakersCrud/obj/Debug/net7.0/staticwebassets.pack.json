@@ -1,0 +1,821 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SpeakersCrud.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SpeakersCrud.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\03ec59d0-dcf1-4a95-977d-6b6705a6210e_wrong_glasses.webp",
+      "PackagePath": "staticwebassets\\Uploads\\03ec59d0-dcf1-4a95-977d-6b6705a6210e_wrong_glasses.webp"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\280a3b5c-bd44-4b16-8c6e-b7c018bacd16_Valeriy_Konovalyuk_3x4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\280a3b5c-bd44-4b16-8c6e-b7c018bacd16_Valeriy_Konovalyuk_3x4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\688f5c4b-d776-48d0-acdc-c53ec8e54b46_1679495304547.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\688f5c4b-d776-48d0-acdc-c53ec8e54b46_1679495304547.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\68d2e63f-0917-4b87-b38e-fe18c1ac0f8d_istockphoto-1482523598-612x612.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\68d2e63f-0917-4b87-b38e-fe18c1ac0f8d_istockphoto-1482523598-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\6d5c7323-5960-4c4a-b458-afccfba35e3a_myimage.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\6d5c7323-5960-4c4a-b458-afccfba35e3a_myimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\a4c96389-2e8b-4810-8249-3d7202f3966d_brunau-andraya-2-print-3x4-hi-res_1500xx1540-2053-0-0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a4c96389-2e8b-4810-8249-3d7202f3966d_brunau-andraya-2-print-3x4-hi-res_1500xx1540-2053-0-0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\ab29d991-d601-46a2-bb1b-2dbf431ec899_Valeriy_Konovalyuk_3x4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ab29d991-d601-46a2-bb1b-2dbf431ec899_Valeriy_Konovalyuk_3x4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\avatar.png",
+      "PackagePath": "staticwebassets\\Uploads\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\bca4c65f-3317-47ed-b126-a50706881336_myimage.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bca4c65f-3317-47ed-b126-a50706881336_myimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\Uploads\\be515143-06b4-4515-81f5-bbb2f05a4174_1679495304547.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\be515143-06b4-4515-81f5-bbb2f05a4174_1679495304547.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Speakers\\SpeakersCrud\\SpeakersCrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SpeakersCrud.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SpeakersCrud.props",
+      "PackagePath": "build\\SpeakersCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SpeakersCrud.props",
+      "PackagePath": "buildMultiTargeting\\SpeakersCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SpeakersCrud.props",
+      "PackagePath": "buildTransitive\\SpeakersCrud.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
