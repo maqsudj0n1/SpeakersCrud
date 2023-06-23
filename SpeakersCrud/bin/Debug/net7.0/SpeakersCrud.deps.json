@@ -9,9 +9,11 @@
       "SpeakersCrud/1.0.0": {
         "dependencies": {
           "Application": "1.0.0",
+          "AspNet.Security.OAuth.GitHub": "7.0.2",
           "Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Authentication.Facebook": "7.0.8",
           "Microsoft.AspNetCore.Authentication.Google": "7.0.7",
+          "Microsoft.AspNetCore.Authentication.MicrosoftAccount": "7.0.8",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.7",
           "Microsoft.AspNetCore.Identity.UI": "7.0.7",
           "Microsoft.EntityFrameworkCore.Design": "7.0.7",
@@ -21,6 +23,14 @@
         },
         "runtime": {
           "SpeakersCrud.dll": {}
+        }
+      },
+      "AspNet.Security.OAuth.GitHub/7.0.2": {
+        "runtime": {
+          "lib/net7.0/AspNet.Security.OAuth.GitHub.dll": {
+            "assemblyVersion": "7.0.2.0",
+            "fileVersion": "7.0.223.21669"
+          }
         }
       },
       "Azure.Core/1.24.0": {
@@ -610,6 +620,14 @@
           "lib/net7.0/Microsoft.AspNetCore.Authentication.Google.dll": {
             "assemblyVersion": "7.0.7.0",
             "fileVersion": "7.0.723.27408"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.MicrosoftAccount/7.0.8": {
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll": {
+            "assemblyVersion": "7.0.8.0",
+            "fileVersion": "7.0.823.31807"
           }
         }
       },
@@ -2660,6 +2678,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "AspNet.Security.OAuth.GitHub/7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bD+nmPMs57cBK/qtFwAsOrOVljmwgNf+gGszyjnseju46OXGtF+EncSKbFxwJpFHzHwBYD1gUYa5r3nBIVxs5Q==",
+      "path": "aspnet.security.oauth.github/7.0.2",
+      "hashPath": "aspnet.security.oauth.github.7.0.2.nupkg.sha512"
+    },
     "Azure.Core/1.24.0": {
       "type": "package",
       "serviceable": true,
@@ -3037,6 +3062,13 @@
       "sha512": "sha512-1af3btXV/GdtApStJUmf5opsuWPP7uZ/+HOmgTrefjpk8I6U4/8dGYeKrfsyHKEnGevA5KXvxWGf0EbzH3zI1A==",
       "path": "microsoft.aspnetcore.authentication.google/7.0.7",
       "hashPath": "microsoft.aspnetcore.authentication.google.7.0.7.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.MicrosoftAccount/7.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QljZ4ccft56KyQJFu2YzldxDrGvuLY1S7rKaGOsl3jFONYneXLdLkQhbB2z2J2fGJSjfTjBE73csetAU7YUQnA==",
+      "path": "microsoft.aspnetcore.authentication.microsoftaccount/7.0.8",
+      "hashPath": "microsoft.aspnetcore.authentication.microsoftaccount.7.0.8.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/7.0.7": {
       "type": "package",

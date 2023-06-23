@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "AspNet.Security.OAuth.GitHub/7.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/AspNet.Security.OAuth.GitHub.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/AspNet.Security.OAuth.GitHub.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Azure.Core/1.24.0": {
         "type": "package",
         "dependencies": {
@@ -665,6 +681,22 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Microsoft.AspNetCore.Authentication.MicrosoftAccount/7.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll": {
             "related": ".xml"
           }
         },
@@ -4158,6 +4190,20 @@
     }
   },
   "libraries": {
+    "AspNet.Security.OAuth.GitHub/7.0.2": {
+      "sha512": "bD+nmPMs57cBK/qtFwAsOrOVljmwgNf+gGszyjnseju46OXGtF+EncSKbFxwJpFHzHwBYD1gUYa5r3nBIVxs5Q==",
+      "type": "package",
+      "path": "aspnet.security.oauth.github/7.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "aspnet.security.oauth.github.7.0.2.nupkg.sha512",
+        "aspnet.security.oauth.github.nuspec",
+        "lib/net7.0/AspNet.Security.OAuth.GitHub.dll",
+        "lib/net7.0/AspNet.Security.OAuth.GitHub.xml"
+      ]
+    },
     "Azure.Core/1.24.0": {
       "sha512": "+/qI1j2oU1S4/nvxb2k/wDsol00iGf1AyJX5g3epV7eOpQEP/2xcgh/cxgKMeFgn3U2fmgSiBnQZdkV+l5y0Uw==",
       "type": "package",
@@ -4970,6 +5016,21 @@
         "lib/net7.0/Microsoft.AspNetCore.Authentication.Google.xml",
         "microsoft.aspnetcore.authentication.google.7.0.7.nupkg.sha512",
         "microsoft.aspnetcore.authentication.google.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.MicrosoftAccount/7.0.8": {
+      "sha512": "QljZ4ccft56KyQJFu2YzldxDrGvuLY1S7rKaGOsl3jFONYneXLdLkQhbB2z2J2fGJSjfTjBE73csetAU7YUQnA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.microsoftaccount/7.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.MicrosoftAccount.xml",
+        "microsoft.aspnetcore.authentication.microsoftaccount.7.0.8.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.microsoftaccount.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Cryptography.Internal/7.0.7": {
@@ -11938,9 +11999,11 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Application >= 1.0.0",
+      "AspNet.Security.OAuth.GitHub >= 7.0.2",
       "Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.Facebook >= 7.0.8",
       "Microsoft.AspNetCore.Authentication.Google >= 7.0.7",
+      "Microsoft.AspNetCore.Authentication.MicrosoftAccount >= 7.0.8",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.7",
       "Microsoft.AspNetCore.Identity.UI >= 7.0.7",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.7",
@@ -12003,6 +12066,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "AspNet.Security.OAuth.GitHub": {
+            "target": "Package",
+            "version": "[7.0.2, )"
+          },
           "Microsoft.AspNetCore.Authentication.Facebook": {
             "target": "Package",
             "version": "[7.0.8, )"
@@ -12010,6 +12077,10 @@
           "Microsoft.AspNetCore.Authentication.Google": {
             "target": "Package",
             "version": "[7.0.7, )"
+          },
+          "Microsoft.AspNetCore.Authentication.MicrosoftAccount": {
+            "target": "Package",
+            "version": "[7.0.8, )"
           },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",

@@ -14,14 +14,25 @@ internal class Program
         var builder = WebApplication.CreateBuilder(args);
         builder.Services.AddAuthentication().AddGoogle(googleOptions =>
         {
-            googleOptions.ClientId = builder.Configuration["web:client_id"];
-            googleOptions.ClientSecret = builder.Configuration["web:client_secret"];
+            googleOptions.ClientId = builder.Configuration["web:google_client_id"];
+            googleOptions.ClientSecret = builder.Configuration["web:google_client_secret"];
         });
 
         builder.Services.AddAuthentication().AddFacebook(facebookOptions =>
         {
-            facebookOptions.AppId = "1786417488443293";
-            facebookOptions.AppSecret = "685e7f15fb44793014d61c5d1748b0c4";     
+            facebookOptions.AppId = builder.Configuration["web:facebookAppId"];
+            facebookOptions.AppSecret = builder.Configuration["web:facebookAppSecret"];   
+        });
+        builder.Services.AddAuthentication().AddGitHub(gitHubOptions =>
+        {
+            gitHubOptions.ClientId = builder.Configuration["web:githubClientId"];
+            gitHubOptions.ClientSecret = builder.Configuration["web:githubClientSecret"];
+        });
+
+        builder.Services.AddAuthentication().AddMicrosoftAccount(microsoft =>
+        {
+            microsoft.ClientSecret = builder.Configuration["web:microsoftClientSecret"];
+            microsoft.ClientId = builder.Configuration["web:microsoftClientId"];
         });
         builder.Services.AddCors(options =>
         {
